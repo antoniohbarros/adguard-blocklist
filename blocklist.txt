@@ -15,7 +15,6 @@
 ||api.helpshift.com
 ||beacons.gcp.gvt2.com
 ||addons-pa.googleapis.com
-||ajax.googleapis.com
 ||analytics.mercadolivre.com.br
 ||6Jh0Sh-dnsotls-ds.metric.gstatic.com
 ||images-na.ssl-images-amazon.com
@@ -143,7 +142,6 @@
 ||acdn.adnxs.com^
 ||activity-flow.vtex.com^
 ||ad.doubleclick.net^
-||addons-pa.googleapis.com^
 ||ade.googlesyndication.com^
 ||adexp.liftoff.io^
 ||adrta.com^
@@ -152,11 +150,7 @@
 ||ae-pic-a1.aliexpress-media.com^
 ||ae01.alicdn.com^
 ||ajax.cloudflare.com^
-||ajax.googleapis.com^
 ||analytics.mercadolivre.com.br^
-||android-safebrowsing.google.com^
-||android.apis.google.com^
-||android.clients.google.com^
 ||api.account.samsung.com^
 ||api.helpshift.com^
 ||api.ipify.org^
@@ -260,7 +254,6 @@
 ||videoassets41.blob.core.windows.net^
 ||warp.media.net^
 ||www.facebook.com^
-||www.google.com^
 ||www.googleadservices.com^
 ||www.googletagservices.com^$important
 ||www.gstatic.com^
@@ -287,9 +280,7 @@
 ||YnCC4O-dnsotls-ds.metric.gstatic.com^
 ||ZDoNMO-dnsotls-ds.metric.gstatic.com^
 ||amp-marca-com.cdn.ampproject.org^
-||android.googleapis.com^
 ||api.9gag.com^
-||apis.google.com^
 ||app-measurement.com^
 ||b2c-api.voeazul.com.br^
 ||b36729938cb6433859a11103ff945bc5.safeframe.googlesyndication.com^
@@ -345,7 +336,6 @@
 ||cdn.pubnative.net^
 ||impression.appsflyer.com^
 ||msh.amazon.com.br^
-||rr4---sn-cg51pauxax-jfc6.googlevideo.com^
 ||rt.applovin.com^
 ||sdk.ad.smaato.net^
 ||telemetry.sdk.inmobi.com^
